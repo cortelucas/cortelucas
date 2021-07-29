@@ -8,7 +8,7 @@
   <a href="https://github.com/cortelucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cortelucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortelucas&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" width="120" hight="120" src="https://cdn.discordapp.com/attachments/870351001113227287/870351158651269160/cortoon-lucas.jpg">
+  <img align="right" width="120" hight="180em" src="https://cdn.discordapp.com/attachments/870351001113227287/870351158651269160/cortoon-lucas.jpg">
    
 </div>
   
