@@ -1,6 +1,6 @@
 ### Hello, World! 🖖🏼
-- 🔭 Atualmente trabalho com Front-End
-- 🌱 Estudando Node.JS, TypeScript e Python
+- 🔭 Working with Front end, risking a back end.
+- 🌱 Studying Node.JS, TypeScript and Python
 
 ## 
 
