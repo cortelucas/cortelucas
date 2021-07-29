@@ -21,6 +21,7 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Corte-gif" src="https://cdn.discordapp.com/attachments/870351001113227287/870351158651269160/cortoon-lucas.jpg">
 </div>
   
   ##
@@ -32,3 +33,9 @@
   <a href="https://www.linkedin.com/in/lucascorte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+ 
+ ##
+ 
+ <div align="center">
+ ![Snake animation](https://github.com/cortelucas/cortelucas/blob/output/github-contribution-grid-snake.svg)
+ </div>
