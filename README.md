@@ -20,7 +20,7 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Lucas-MuleSoft" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mulesoft_logo_icon_170933.png">
   <img align="right" height="120" width="120" alt="Corte-gif" src="https://cdn.discordapp.com/attachments/870351001113227287/870351158651269160/cortoon-lucas.jpg">
 </div>
   
